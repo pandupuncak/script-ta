@@ -1,0 +1,107 @@
+{
+  "help": "https://katalog.data.go.id/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "author": "DINAS PEMUDA, OLAHRAGA, KEBUDAYAAN DAN PARIWISATA KOTA MOJOKERTO",
+    "author_email": "disporabudpar_mr2015@yahoo.com",
+    "creator_user_id": "f28ed00f-17c6-4ad1-9e24-778f6af7123d",
+    "id": "99a7d529-41f2-4237-bc70-6dadcefe95c9",
+    "isopen": true,
+    "license_id": "cc-by",
+    "license_title": "Creative Commons Attribution",
+    "license_url": "http://www.opendefinition.org/licenses/cc-by",
+    "maintainer": "sungram",
+    "maintainer_email": "rinjanwinda@gmail.com",
+    "metadata_created": "2022-10-31T00:52:49.124967",
+    "metadata_modified": "2022-10-31T00:52:49.124974",
+    "name": "data-cagar-budaya-yang-mendapatkan-rekomendasi-untuk-ditetapkan-menjadi-cagar-budaya-tahun-2019",
+    "notes": "## DAFTAR OBYEK CAGAR BUDAYA YANG MENDAPATKAN REKOMENDASI UNTUK DAPAT DITETAPKAN MENJADI CAGAR BUDAYA TAHUN 2019\r\n- provinsi : provinsi\r\n- kabupaten_kota : kabupaten / kota\r\n- nama_obyek : nama objek cagar budaya\r\n- klasifikasi_obyek : klasifikasi objek cagar budaya\r\n- lokasi : alamat cagar budaya\r\n- kelurahan : lokasi kelurahan\r\n- kecamatan : lokasi kecamatan",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+      "id": "758fdac8-b747-434f-a894-442a19e123ae",
+      "name": "pemerintah-kota-mojokerto",
+      "title": "Pemerintah Kota Mojokerto",
+      "type": "organization",
+      "description": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kota_Mojokerto.jpg",
+      "created": "2022-10-13T03:24:13.746144",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active"
+    },
+    "owner_org": "758fdac8-b747-434f-a894-442a19e123ae",
+    "private": false,
+    "state": "active",
+    "title": "DATA CAGAR BUDAYA YANG MENDAPATKAN REKOMENDASI UNTUK DITETAPKAN MENJADI CAGAR BUDAYA TAHUN 2019",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "extras": [
+      { "key": "TAHUN", "value": "2019" },
+      { "key": "kategori", "value": "Industri" },
+      {
+        "key": "harvest_object_id",
+        "value": "e37563c9-d494-4318-9f20-a933e610721d"
+      },
+      {
+        "key": "harvest_source_id",
+        "value": "c1771577-f403-4a3e-8dc5-99cd382f3ccb"
+      },
+      {
+        "key": "harvest_source_title",
+        "value": "Pemerintah Kota Mojokerto - CKAN"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2019-12-23T03:01:35.601953",
+        "datastore_active": true,
+        "description": "## DAFTAR OBYEK CAGAR BUDAYA YANG MENDAPATKAN REKOMENDASI UNTUK DAPAT DITETAPKAN MENJADI CAGAR BUDAYA TAHUN 2019\r\n- provinsi : provinsi\r\n- kabupaten_kota : kabupaten / kota\r\n- nama_obyek : nama objek cagar budaya\r\n- klasifikasi_obyek : klasifikasi objek cagar budaya\r\n- lokasi : alamat cagar budaya\r\n- kelurahan : lokasi kelurahan\r\n- kecamatan : lokasi kecamatan",
+        "format": "CSV",
+        "hash": "",
+        "id": "0f59bc87-0037-456a-87db-9b4a95d392f0",
+        "last_modified": "2020-04-06T13:44:33.154771",
+        "metadata_modified": "2022-10-31T00:52:49.115830",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "DAFTAR OBYEK CAGAR BUDAYA YANG MENDAPATKAN REKOMENDASI UNTUK DAPAT DITETAPKAN MENJADI CAGAR BUDAYA TAHUN 2019",
+        "package_id": "99a7d529-41f2-4237-bc70-6dadcefe95c9",
+        "position": 0,
+        "resource_type": null,
+        "size": 1419,
+        "state": "active",
+        "url": "http://data.mojokertokota.go.id/dataset/99a7d529-41f2-4237-bc70-6dadcefe95c9/resource/0f59bc87-0037-456a-87db-9b4a95d392f0/download/daftar-obyek-cagar-budaya-yang-mendapatkan-rekomendasi-dari-tim-ahli-cagar-budaya-untuk-dapat-di.csv",
+        "url_type": null
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "2019",
+        "id": "6c308502-9fef-40e0-93bd-834b7dab6914",
+        "name": "2019",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "CAGAR BUDAYA",
+        "id": "9867f106-ff44-448d-8dde-58d8c8ec456a",
+        "name": "CAGAR BUDAYA",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "REKOMENDASI",
+        "id": "a010dfed-f0a0-4d8e-8469-8cbcaa78779d",
+        "name": "REKOMENDASI",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": []
+  }
+}

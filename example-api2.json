@@ -1,0 +1,128 @@
+{
+  "help": "https://katalog.data.go.id/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "author": "Kasi Pemerintahan",
+    "author_email": "",
+    "creator_user_id": "f28ed00f-17c6-4ad1-9e24-778f6af7123d",
+    "id": "68e022b8-9041-4749-89e7-c987ffb929d0",
+    "isopen": true,
+    "license_id": "cc-by",
+    "license_title": "Creative Commons Attribution",
+    "license_url": "http://www.opendefinition.org/licenses/cc-by",
+    "maintainer": "Mochamad Mashadi",
+    "maintainer_email": "hadieahmad0596@gmail.com",
+    "metadata_created": "2022-10-31T01:00:02.607891",
+    "metadata_modified": "2022-10-31T01:00:02.607897",
+    "name": "data-lampid-kecamatan-magersari-tahun-2019",
+    "notes": "Data Lahir, Mati, Pindah, dan Datang Kecamatan Magersari Tahun 2017 - 2019\r\n\r\n* provinsi : Provinsi\r\n* kota_kabupaten : Kota / Kabupaten\r\n* tahun : Tahun\r\n* bulan : Bulan\r\n* kecamatan : Kecamatan\r\n* kelurahan : Kelurahan\r\n* jumlah_penduduk : Jumlah Penduduk\r\n* lahir : Jumlah Kelahiran \r\n* mati : Jumlah Kematian\r\n* datang : Jumlah Kedatangan Penduduk Baru\r\n* pindah : Jumlah Kepindahan Penduduk",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+      "id": "758fdac8-b747-434f-a894-442a19e123ae",
+      "name": "pemerintah-kota-mojokerto",
+      "title": "Pemerintah Kota Mojokerto",
+      "type": "organization",
+      "description": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kota_Mojokerto.jpg",
+      "created": "2022-10-13T03:24:13.746144",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active"
+    },
+    "owner_org": "758fdac8-b747-434f-a894-442a19e123ae",
+    "private": false,
+    "state": "active",
+    "title": "Data Lahir, Mati, Pindah, dan Datang Kecamatan Magersari Tahun 2017 - 2019",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "extras": [
+      { "key": "Tahun", "value": "2019" },
+      { "key": "kategori", "value": "Industri" },
+      {
+        "key": "harvest_object_id",
+        "value": "f2b158a5-f868-4153-b453-a61db1f6d3e7"
+      },
+      {
+        "key": "harvest_source_id",
+        "value": "c1771577-f403-4a3e-8dc5-99cd382f3ccb"
+      },
+      {
+        "key": "harvest_source_title",
+        "value": "Pemerintah Kota Mojokerto - CKAN"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2020-08-24T03:49:54.593629",
+        "datastore_active": true,
+        "description": "* provinsi : Provinsi\r\n* kota_kabupaten : Kota / Kabupaten\r\n* tahun : Tahun\r\n* bulan : Bulan\r\n* kecamatan : Kecamatan\r\n* kelurahan : Kelurahan\r\n* jumlah_penduduk : Jumlah Penduduk\r\n* lahir : Jumlah Kelahiran \r\n* mati : Jumlah Kematian\r\n* datang : Jumlah Kedatangan Penduduk Baru\r\n* pindah : Jumlah Kepindahan Penduduk",
+        "format": "CSV",
+        "hash": "",
+        "id": "91be0e66-9e56-41ac-bdd3-bad805aeb650",
+        "last_modified": "2020-10-11T13:19:29.776981",
+        "metadata_modified": "2022-10-31T01:00:02.592222",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "data_lampid_kec.magersari_tahun2017_2019.csv",
+        "package_id": "68e022b8-9041-4749-89e7-c987ffb929d0",
+        "position": 0,
+        "resource_type": null,
+        "size": 2984,
+        "state": "active",
+        "url": "http://data.mojokertokota.go.id/dataset/68e022b8-9041-4749-89e7-c987ffb929d0/resource/91be0e66-9e56-41ac-bdd3-bad805aeb650/download/data_lampid_kec.magersari_tahun2017_2019.csv",
+        "url_type": null
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "datang",
+        "id": "0801e776-5b83-4586-97ee-f4b996968ab9",
+        "name": "datang",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "lahir",
+        "id": "37faea2e-8966-4d10-a271-f62594b4dd52",
+        "name": "lahir",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "magersari",
+        "id": "4df508b7-49ff-4708-b9d1-99625a0a778e",
+        "name": "magersari",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "mati",
+        "id": "9f4237c0-d8b1-401f-a24d-55e29e3ca88d",
+        "name": "mati",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "penduduk",
+        "id": "f2301ef1-b12d-4c7e-8419-b382b19e5592",
+        "name": "penduduk",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "pindah",
+        "id": "d2ac3843-20ae-42eb-94f4-7617f52533b0",
+        "name": "pindah",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": []
+  }
+}

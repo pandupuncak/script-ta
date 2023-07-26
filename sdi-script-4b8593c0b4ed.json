@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sdi-script",
+  "private_key_id": "4b8593c0b4ed2e574319f3ae4f2ac3d49523c46b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrSlgaxz+ublWY\nTMR3Og+bvoFJasqyqW1zZ8DsjTOwUCpjtOHOgS8EpsRVQfOU+cuI31vn702V1YIf\n8b2+KSCavMorwoO1+HbG3ibQ/kHfIkQkE0uzhBJHtiJgPYBrX5kdMnWm6+tvJ0Fj\nXDgCl474M+5m9B5oJxsvZRACHETMK0pHgz+guy1KGUGvqZeJBMgcibaKdjwZKj1C\nj8yHecrm8H8pCktzAcSGUqUHfI592DGOsftmQ2DgtVEKlsqtrJev28gAzg2uPjFb\n9BPTknxeWmflok9BR2dbUKcOo/m2usq7WYMGeC1sfsptHVKV5HIoXT6+2rOtySTX\nR9Icx7XrAgMBAAECggEANWXnQm3T8d5Oi7x+0MZGYGCKsGb8yqabysrQ701zjCbp\nmAynCjfmfvY4JXX6Z/pZU5GB9rN4xdl6B9hWNOZgViy9f9fTNJLBAGz3v9ZLlbJ6\neJ6VTmDBTB7A56y0kISMWHhHCiLo0c10inOQuGoj9UdHLkwzAHgUdvlz/JxwbA8e\nNXTkL7C10223hs/i+p67lzo0xaCFqaZB0uoNdfwswNo13kWIaixrSm6pTagH7Hve\nkKbv9nlBe7LcAefJmd/ATf0LKmPu1YoBEQVVZjztffD5y/atKaIVUK6rQCQ+/9pI\nhcD7fsrQPqHGlTXiBqOs8Z2IJZY/DioAi5RSoYF5lQKBgQDUSq0WIBxyPjoVcWEv\n6DFFbgtPXzL92pimqRLhBjQBQNApqm9aZS7qwZw/KrB6qrWbBP2zlqsH0pu8vl1e\n7xofIT/klZ4TFWKlgWjc1/MVQ8RbTw4Fj8SvXoIaMoW6v9grSVaAHqGX/9xAFfIJ\noAwbsEVpiBIOInavuN6VnHRo9wKBgQDOjpmh/hy1vov9t815CF+z84HBPrsl6I/T\n/u2uecpS5I8Ug0FV0E7rc1Qx8g6P59zgC+s+QF1svAWyiUl1pchnwdjgqbGKC04T\n+35Sdf7f10+56gTNTsGgrYjASVg9mOxhFOfJQ0r7uoKpIKmrNClzl5T+nmxQwlke\n+NjQ3kaxrQKBgQCg+AKoXS7UnURzj+XuanQ5vghLZdcHT2IiNN9AyvBR5vAwN7B5\nbXGWxbmQ1/C7AofzhGROcTc8FkDKa9nmqww2gIKu85fJxpRnBGob0o7aF+liht4N\n74ZmpxWlgZuPD/p8T/6L5S4IUBSUb094ZufnctAfBfMSzqUJ9vanoNtP3wKBgECv\nz9U3a25PWi/+285HnRER9VS7fIiGqGRPtceqRH5pLZXS9ScWsWBzIa7yizTt+/H+\nSZGZPqjKyU38SJEbdgNoZa8V9Y+xsqX3YLwaT9Nx7nnem9pgC6tyLR1q2sOPnJda\noKwa8uSaqEim/furvj+A/RwwKOOxuY9Fh0ECG0mRAoGAb/fC+ao0gUk0FY9aG/Gm\nRvsepVzP8RXJYDQxPxzi7UyCMll4n/nDDxq7fkBiaAxee/rD/UmwB0RRxXQ2RO/E\n7O1+w6q6ShypENFJ/OzNfw5NnsaY/OPxmLN9gftETQzvddRrlwRUkEAI5PFI0+H4\n9KyUEEboES1S24fdmrFy7Bo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pandu-ta@sdi-script.iam.gserviceaccount.com",
+  "client_id": "109731423470829252571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pandu-ta%40sdi-script.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
