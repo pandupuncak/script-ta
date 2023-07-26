@@ -1,0 +1,233 @@
+{
+  "help": "https://katalog.data.go.id/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "f28ed00f-17c6-4ad1-9e24-778f6af7123d",
+    "id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2022-10-24T22:09:30.930027",
+    "metadata_modified": "2023-07-08T09:19:46.806215",
+    "name": "wilayah-sungai",
+    "notes": "<p>Wilayah Sungai (WS) adalah kesatuan wilayah pengelolaan sumber daya air dalam satu atau lebih daerah aliran sungai dan/atau pulau-pulau kecil yang luasnya kurang dari atau sama dengan 2.000 km2. Daerah Aliran Sungai (DAS) adalah suatu wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak-anak sungai, yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alamiah yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan.</p>\n<p>Adapun penjelasan mengenai variabel di dalam Dataset ini adalah sebagai berikut:<br />\n*   <strong>Kd_WS</strong> : menyatakan kode dari nama wilayah sungai di indonesia<br />\n*   <strong>Nama_WS</strong> : menyatakan nama wilayah sungai di indonesia<br />\n*   <strong>Jumlah_DAS</strong> : menyatakan jumlah daerah aliran sungai yang berada dalam wilayah sungai di indonesia<br />\n*   <strong>Lokasi</strong> : menyatakan nama lokasi (Provinsi/Kabupaten/Kota) dimana sungai itu melintas</p>\n",
+    "num_resources": 5,
+    "num_tags": 8,
+    "organization": {
+      "id": "b9718063-afae-4781-b266-60e928ed81fd",
+      "name": "kementerian-pekerjaan-umum-dan-perumahan-rakyat",
+      "title": "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+      "type": "organization",
+      "description": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_PU_%28RGB%29.jpg",
+      "created": "2022-10-08T06:43:21.339521",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active"
+    },
+    "owner_org": "b9718063-afae-4781-b266-60e928ed81fd",
+    "private": false,
+    "state": "active",
+    "title": "Wilayah Sungai",
+    "type": "dataset",
+    "url": "https://data.pu.go.id/dataset/wilayah-sungai",
+    "version": null,
+    "extras": [
+      { "key": "dcat_issued", "value": "2020-08-05" },
+      { "key": "dcat_modified", "value": "2020-12-16" },
+      { "key": "dcat_publisher_name", "value": "Ditjen Sumber Daya Air" },
+      { "key": "guid", "value": "a8cd19f1-88bd-47db-a89a-c11df1817218" },
+      { "key": "kategori", "value": "Industri" },
+      { "key": "language", "value": "" },
+      {
+        "key": "harvest_object_id",
+        "value": "ccb085f7-10d6-4013-ba9e-d4a6719da6e0"
+      },
+      {
+        "key": "harvest_source_id",
+        "value": "731bd790-6816-4f81-89d5-49c8e2e08b47"
+      },
+      {
+        "key": "harvest_source_title",
+        "value": "Kementerian Pekerjaan Umum dan Perumahan Rakyat - DCAT"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-10-24T22:09:30.933155",
+        "datastore_active": false,
+        "description": "<p>Resource ini berisi\u00a0data Wilayah Sungai Lintas Negara di Indonesia<br />\n-- <em>Sumber data: Lampiran I.1 Keputusan Presiden Republik Indonesia Nomor 12 Tahun 2012 Tentang Penetapan Wilayah Sungai</em></p>\n",
+        "format": "CSV",
+        "hash": "",
+        "id": "dfd6343f-8744-4de8-84bd-5e45c1bac4fc",
+        "last_modified": null,
+        "metadata_modified": "2022-12-08T08:29:41.054033",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Wilayah Sungai Lintas Negara",
+        "package_id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+        "position": 0,
+        "resource_type": null,
+        "size": null,
+        "state": "active",
+        "url": "https://data.pu.go.id/sites/default/files/Wilayah%20Sungai%20Lintas%20Negara_0.csv",
+        "url_type": null
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-10-24T22:09:30.933161",
+        "datastore_active": false,
+        "description": "<p>Resource ini berisi\u00a0data Wilayah Sungai Lintas Provinsi di Indonesia<br />\n-- <em>Sumber data: Lampiran I.2 Keputusan Presiden Republik Indonesia Nomor 12 Tahun 2012 Tentang Penetapan Wilayah Sungai</em><br />\n-- <em>Catatan: * Pengelolaan Sumber Daya Air pada Wilayah Sungai tersebut dengan tetap menjamin kebutuhan air baku Ibukota Negara Kesatuan Republik Indonesia</em></p>\n",
+        "format": "CSV",
+        "hash": "",
+        "id": "3f21a8f3-3a22-4a24-89c2-3748f0e098b8",
+        "last_modified": null,
+        "metadata_modified": "2022-12-08T08:29:41.054170",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Wilayah Sungai Lintas Provinsi",
+        "package_id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+        "position": 1,
+        "resource_type": null,
+        "size": null,
+        "state": "active",
+        "url": "https://data.pu.go.id/sites/default/files/Wilayah%20Sungai%20Lintas%20Provinsi.csv",
+        "url_type": null
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-10-24T22:09:30.933164",
+        "datastore_active": false,
+        "description": "<p>Resource ini berisi\u00a0data Wilayah Sungai Strategis Nasional di Indonesia<br />\n-- <em>Sumber data: Lampiran I.3 Keputusan Presiden Republik Indonesia Nomor 12 Tahun 2012 Tentang Penetapan Wilayah Sungai</em><br />\n-- <em>Catatan : * Pengelolaan Sumber Daya Air pada Wilayah Sungai tersebut dengan tetap menjamin kebutuhan air baku Ibukota Negara Kesatuan Republik Indonesia</em></p>\n",
+        "format": "CSV",
+        "hash": "",
+        "id": "270b50db-63a3-4e3f-9e76-d09b09ae0349",
+        "last_modified": null,
+        "metadata_modified": "2022-12-08T08:29:41.054276",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Wilayah Sungai Strategis Nasional",
+        "package_id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+        "position": 2,
+        "resource_type": null,
+        "size": null,
+        "state": "active",
+        "url": "https://data.pu.go.id/sites/default/files/Wilayah%20Sungai%20Strategis%20Nasional.csv",
+        "url_type": null
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-10-24T22:09:30.933167",
+        "datastore_active": false,
+        "description": "<p>Resource ini berisi\u00a0data Wilayah Sungai Lintas Kabupaten/Kota di Indonesia<br />\n-- <em>Sumber data: Lampiran I.4 Keputusan Presiden Republik Indonesia Nomor 12 Tahun 2012 Tentang Penetapan Wilayah Sungai</em></p>\n",
+        "format": "CSV",
+        "hash": "",
+        "id": "ee254ec6-4471-4937-93ce-c20dbde99b59",
+        "last_modified": null,
+        "metadata_modified": "2022-12-08T08:29:41.054377",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Wilayah Sungai Lintas Kabupaten/Kota",
+        "package_id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+        "position": 3,
+        "resource_type": null,
+        "size": null,
+        "state": "active",
+        "url": "https://data.pu.go.id/sites/default/files/Wilayah%20Sungai%20Lintas%20Kabupaten-Kota.csv",
+        "url_type": null
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2022-10-24T22:09:30.933169",
+        "datastore_active": false,
+        "description": "<p>Resource ini berisi\u00a0data Wilayah Sungai Dalam Satu Kabupaten/Kota di Indonesia<br />\n-- <em>Sumber data: Lampiran I.5 Keputusan Presiden Republik Indonesia Nomor 12 Tahun 2012 Tentang Penetapan Wilayah Sungai</em></p>\n",
+        "format": "CSV",
+        "hash": "",
+        "id": "785bba8b-ee6a-4033-914c-cab2d34cfb72",
+        "last_modified": null,
+        "metadata_modified": "2022-12-08T08:29:41.054475",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "Wilayah Sungai Dalam Satu Kabupaten/Kota",
+        "package_id": "4e6bab60-810c-4b6e-b9b5-dc8a3a1fd184",
+        "position": 4,
+        "resource_type": null,
+        "size": null,
+        "state": "active",
+        "url": "https://data.pu.go.id/sites/default/files/Wilayah%20Sungai%20Dalam%20Satu%20Kabupaten-Kota.csv",
+        "url_type": null
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "Sumber Daya Air",
+        "id": "36648f47-0952-43c9-b529-dd9cbe3ca669",
+        "name": "Sumber Daya Air",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Sungai",
+        "id": "efb79caa-87fa-4caf-9813-58c636e645db",
+        "name": "Sungai",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "Wilayah Sungai",
+        "id": "e74d804b-1ba8-4b70-b0e8-73cfc7afd91e",
+        "name": "Wilayah Sungai",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "aliran sungai",
+        "id": "fb44a70e-ce82-440c-89e3-96b348a1842a",
+        "name": "aliran sungai",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "daerah aliran sungai",
+        "id": "da012b79-a9f2-43fa-a43a-aee8854a33b2",
+        "name": "daerah aliran sungai",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "das",
+        "id": "4b36316b-315f-42d7-907f-cab022c35387",
+        "name": "das",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "sda",
+        "id": "5240d1f0-b143-46a4-8a59-2bbf0ae8007d",
+        "name": "sda",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "ws",
+        "id": "e280ad19-0727-41c1-a34c-752d4111e7fb",
+        "name": "ws",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": []
+  }
+}
